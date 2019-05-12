@@ -1,2 +1,2 @@
-# Popperman
-Popperman RadioTeam-v2
+# Pommerman
+Pommerman RadioTeam-v2
